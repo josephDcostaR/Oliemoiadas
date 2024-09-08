@@ -31,8 +31,8 @@ Contribuições são bem-vindas! Para contribuir, siga estes passos:
 4. Envie um pull request.
 
 ## Autor
-Joseph da costa ribeiro
-jojojosephdacostaribeiro@gmail.com
+* Joseph da costa ribeiro
+* jojojosephdacostaribeiro@gmail.com
 
 ## Licença
 Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para mais detalhes.
