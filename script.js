@@ -28,10 +28,14 @@ function pesquisar () {
     }else if(campoPesquisa == "") {
       section.innerHTML = "<p>Nada foi encontrado. O campo de pesquisa está vazio.</p>";
       return
-    } else if (!resultados) {
+    } 
+    
+    if (!resultados) {
       section.innerHTML = "<p>Nada foi encontrado. Não a nada sobre isso em nossa base de dados.</p>";
       return
-    }else if (!campoPesquisa) {
+    }
+    
+    if (!campoPesquisa) {
       section.innerHTML = "<p>Nada foi encontrado. Você não buscou pelo atleta</p>";
       return
     }
